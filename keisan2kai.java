@@ -10,7 +10,7 @@ System.out.println("‘«‚µZ(+)Aˆø‚«Z(-)AŠ|‚¯Z(*)AŠ„‚èZ(/)A—]‚è(%)‚Ì‚Ç‚ê‚©"
 String kigou = new java.util.Scanner(System.in).nextLine();
 System.out.println("”š2=");
 int in1 = new java.util.Scanner(System.in).nextInt();
-System.out.println(in0+kigou+in1"=");
+System.out.println(in0+kigou+in1);
 
 //ˆ— ‘«‚µZ
 int add = in0+in1;
